@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.platform = :ios, "10.3"
   s.documentation_url = 'https://docs.sendbird.com/'
-  s.ios.vendored_frameworks = 'SendBirdSDK.xcframework'
+  s.ios.vendored_frameworks = 'Sources/SendBirdSDK.xcframework'
   s.ios.frameworks = ["UIKit", "CFNetwork", "Security", "Foundation", "MobileCoreServices", "SystemConfiguration", "CoreFoundation"]
   s.ios.library   = "icucore"
 end
