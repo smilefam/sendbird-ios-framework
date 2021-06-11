@@ -122,6 +122,7 @@ typedef NS_ENUM(NSInteger, SBDErrorCode) {
     SBDErrorPassedInvalidAccessToken = 800500,
     SBDErrorSessionKeyRefreshSucceeded = 800501,
     SBDErrorSessionKeyRefreshFailed = 800502,
+    SBDErrorLocalDatabase = 800700,
     
     // WS Error
     SBDErrorSocketLoginRequired = 900010,
@@ -710,6 +711,10 @@ typedef NS_OPTIONS(NSInteger, SBDLogLevel) {
     SBDLogLevelError        = (1 << 0),
     SBDLogLevelWarning      = (1 << 1),
     SBDLogLevelInfo         = (1 << 2),
+};
+
+typedef NS_ENUM(NSUInteger, SBDInitPolicy) {
+    SBDInitPolicyCacheAndReplaceByApi = 0,
 };
 
 #endif /* SBDTypes_h */
