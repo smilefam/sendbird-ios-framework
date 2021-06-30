@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/SBDBaseCollection.h</key>
 		<data>
-		uF8pakybUA7zxOTCLI6WYWjjunc=
+		pAV3/ZCbXN7/cqzTlY5SYKlqRwQ=
 		</data>
 		<key>Headers/SBDBaseMessage.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/SBDGroupChannel.h</key>
 		<data>
-		/VR4mxT47xCIqNXBj9tiMj3Zrms=
+		J4N748q+sBVZYRZVGHirMUxcDXg=
 		</data>
 		<key>Headers/SBDGroupChannelChangeLogsParams.h</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/SBDMessageCollection.h</key>
 		<data>
-		Zmd1Mti9TBM3BZbROchCiiiYoJs=
+		SJUZC5wfJmWtqLMx5RmbK8P3/i0=
 		</data>
 		<key>Headers/SBDMessageCollectionDelegate.h</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>Headers/SBDOpenChannel.h</key>
 		<data>
-		zx7MjL3DX3G9OTKX1Hdeh9g8Sk4=
+		lkFE++2/ShH+eugDzVku6Haa188=
 		</data>
 		<key>Headers/SBDOpenChannelListQuery.h</key>
 		<data>
@@ -286,7 +286,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		++n84R9Uxxqof7PYArBPpNkBQVA=
+		lUOmHqCxTvzCHRLgirN2N1RYsKQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -365,11 +365,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uF8pakybUA7zxOTCLI6WYWjjunc=
+			pAV3/ZCbXN7/cqzTlY5SYKlqRwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			mQNirb9e+P1ScocMjAMJXiBKSQJgXyMNC3UeHqXvzDg=
+			p3QV/HxIMQbQ11P4AjZCCtWsZQ5qWHpX39X+V8AY5pM=
 			</data>
 		</dict>
 		<key>Headers/SBDBaseMessage.h</key>
@@ -530,11 +530,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/VR4mxT47xCIqNXBj9tiMj3Zrms=
+			J4N748q+sBVZYRZVGHirMUxcDXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			t43TBGG7vH5F+2RbSOa5ABi1LlS8TWI9+hnpq7GOs5M=
+			rY0O6lGsF37fXqAsZkrblAgbkf/AHqYEWe71w90FqFY=
 			</data>
 		</dict>
 		<key>Headers/SBDGroupChannelChangeLogsParams.h</key>
@@ -651,11 +651,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zmd1Mti9TBM3BZbROchCiiiYoJs=
+			SJUZC5wfJmWtqLMx5RmbK8P3/i0=
 			</data>
 			<key>hash2</key>
 			<data>
-			heNQZYxciYshSrDcdwUYxZa9XNFenTNVliiODLIp6vY=
+			azMD91bWuYfLzCRyIeBS+gz2yFH+Me5SlaGiFpF2atw=
 			</data>
 		</dict>
 		<key>Headers/SBDMessageCollectionDelegate.h</key>
@@ -783,11 +783,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zx7MjL3DX3G9OTKX1Hdeh9g8Sk4=
+			lkFE++2/ShH+eugDzVku6Haa188=
 			</data>
 			<key>hash2</key>
 			<data>
-			VX4xA3DV5QOrBQQpMPEH6vXbvBdbqJ6u1/eHMWAOyTo=
+			C8EF1XcZNpEJx/pa7/ojhDlFRYFzy/euNQiWK4sp2cs=
 			</data>
 		</dict>
 		<key>Headers/SBDOpenChannelListQuery.h</key>

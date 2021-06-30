@@ -12,12 +12,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-/// Represents the collection.
+/// The root class of the `SBDMessageCollection` and the `SBDChannelCollection`.
+/// @since [NEXT_VERSION]
 @interface SBDBaseCollection : NSObject
-
-- (void)resumeEvent;
-- (void)pauseEvent;
-- (void)destoryEvent;
 
 @end
 

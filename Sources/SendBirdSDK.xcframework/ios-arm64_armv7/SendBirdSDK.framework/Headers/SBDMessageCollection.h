@@ -18,7 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// An object that accesses the cache for the messages.
 /// @since [NEXT_VERSION]
-@interface SBDMessageCollection : SBDBaseCollection<SBDChannelDelegate, SBDConnectionDelegate>
+@interface SBDMessageCollection : SBDBaseCollection
 
 /// Message collection delegate.
 /// @since [NEXT_VERSION]

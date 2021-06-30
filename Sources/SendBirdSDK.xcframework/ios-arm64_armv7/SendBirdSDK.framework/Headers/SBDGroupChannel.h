@@ -1118,7 +1118,7 @@ DEPRECATED_ATTRIBUTE;
  @param data Serialized <span>data</span>.
  @return SBDGroupChannel object.
  */
-+ (nullable instancetype)buildFromSerializedData:(NSData * _Nonnull)data;
+//+ (nullable instancetype)buildFromSerializedData:(NSData * _Nonnull)data;
 
 /**
  Serializes group channel object.
